@@ -24,9 +24,9 @@ Exemplo: PS /d/BKP 11-02-2020/BLUE PROJETOS/Modulo 1/projeto-1-jornada-do-heroi 
 
 Agora você deve digitar em seu terminal: npm start (isso irá starta a execução do projeto)
 
-```
+
 ![image](https://user-images.githubusercontent.com/91481122/181996207-4b5f2e25-4096-4277-aeee-0e41b1952632.png)
-```
+
 ## 📦 Desenvolvimento
 
 Foi desenvolvido um mini game básico no proprio terminal.
